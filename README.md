@@ -35,7 +35,7 @@ Add Item page
 
 5. Use Case Diagram
  ![image](https://github.com/yeabtsegataye/inventory_MGT_sys_java/assets/127824421/f07a6b6a-077b-46ce-86af-d9fab097de46)
-6.//////////////////////Db
+6.Db*******************
  CREATE DATABASE InventoryDB;
 
 USE InventoryDB;
@@ -73,7 +73,7 @@ CREATE TABLE Categories (
     FOREIGN KEY (user_id) REFERENCES Users(user_id)
 );
 
-///////////////////////////////////////////////////////////////////////////////end
+**************end
 7. Functional Requirements
 The functional requirements of the Inventory Management System include:
 - User authentication: Users should be able to log in and access the system securely.
